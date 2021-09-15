@@ -2,7 +2,7 @@
 <h1 align="center">!</h1>
 
 <p>My name is jayed ad here are a few things I'm working on:</p>
-<img src="https://github.com/JayedRafiProjects/JayedRafiProjects/blob/main/cover.png" alt="cover">
+<img src="https://github.com/JayedRafiProjects/JayedRafiProjects/blob/main/banner.png" alt="cover">
 
 
 
