@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <img src="https://github.com/JayedRafiProjects/JayedRafiProjects/blob/main/poster.png" alt="cover">
+### Hi there 👋
 <p>My name is jayed ad here are a few things I'm working on:</p>
 
 
