@@ -2,6 +2,7 @@
 <h1 align="center">Hello World!</h1>
 
 <p>My name is jayed ad here are a few things I'm working on:</p>
+<img src="https://github.com/JayedRafiProjects/JayedRafiProjects/blob/main/cover.png" alt="cover">
 
 <ul>
   <li>Happy Coding</li>
