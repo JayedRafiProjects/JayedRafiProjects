@@ -1,6 +1,17 @@
 ### Hi there 👋
-- ⚡ Fun fact: blank
+<h1 align="center">Hello World!</h1>
 
+<p>My name is jayed ad here are a few things I'm working on:</p>
+
+<ul>
+  <li>Happy Coding</li>
+  <li>Software Product Sprint</li>
+  <li>Google Maps</li>
+</ul>
+
+<hr>
+
+<p>I <strong>love</strong> nerding out about creative coding, so don't hesitate to reach out!</p>
 <!--
 **JayedRafiProjects/JayedRafiProjects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
