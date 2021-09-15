@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/JayedRafiProjects/JayedRafiProjects/blob/main/banner.png" alt="cover">
+<img src="https://github.com/JayedRafiProjects/JayedRafiProjects/blob/main/poster.png" alt="cover">
 <p>My name is jayed ad here are a few things I'm working on:</p>
 
 
