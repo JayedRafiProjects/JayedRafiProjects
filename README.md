@@ -21,6 +21,7 @@ Hi there,
   <li><a href ="">Intranet - Government of Manitoba (Work project)</a></li>
   <li><a href ="">Contaminated Sites Registry - Government of Manitoba (Work project)</a></li>
   <li><a href ="">Website - Science Fundamentals  Foundation of Alberta (Work project)</a></li>
+  <li><a href ="https://jayedrafi.com">Portfolio Website</a></li>
 </ul>
 <br/>
 
