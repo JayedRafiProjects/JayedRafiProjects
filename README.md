@@ -1,22 +1,22 @@
 <img src="https://github.com/JayedRafiProjects/JayedRafiProjects/blob/main/poster.png" alt="cover">
-<p>Hi there</p>
+Hi there,
 <p>My name is <strong>Jayed</strong>, a future software engineer. I am currently doing my bachelors in Computer Science (Honours) at the University of Manitoba and currently working as a web developer at the Government of Manitoba. This is my GitHub profile where you will find a lot of awesome and also embarrassing projects. I usually don't have anything to do in my free time and also I love nerding out about creative projects, so don't hesitate to reach out!</p>
 <br/>
 
-<p><strong>🌱&nbsp;Currently I'm working on:</strong>
+<p>🌱<strong>&nbsp;Currently I'm working on:</strong>
 <ul>
   <li><a href ="">Topic</a></li>
 </ul>
 <br/>
 
-<p><strong>🌱&nbsp;Software & Algorithm projects:</strong>
+<p>🌱<strong>&nbsp;Software & Algorithm projects:</strong>
 <ul>
   <li><a href ="">Arbitrary Mapping Algorithm</a></li>
   <li><a href ="">Sorting Algorithm Visualizer</a></li>
 </ul>
 <br/>
 
-<p><strong>🌱&nbsp;Web Projects:</strong></p>
+<p>🌱<strong>&nbsp;Web Projects:</strong></p>
 <ul>
   <li><a href ="">Intranet - Government of Manitoba (Work project)</a></li>
   <li><a href ="">Contaminated Sites Registry - Government of Manitoba (Work project)</a></li>
