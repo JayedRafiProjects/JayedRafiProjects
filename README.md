@@ -1,6 +1,6 @@
 <img src="https://github.com/JayedRafiProjects/JayedRafiProjects/blob/main/poster.png" alt="cover">
 ### Hi there 👋
-<p>My name is jayed ad here are a few things I'm working on:</p>
+<p>My name is Jayed, a future software engineer. I am currently doing my bachelors in Computer Science (Honours) at the University of Manitoba and currently working as a web developer at the Government of Manitoba. This is my GitHub profile where you will find a lot of awesome and also embarrassing projects. I usually don't have anything to do in my free time and also I love nerding out about creative projects, so don't hesitate to reach out!</p>
 
 
 <hr>
