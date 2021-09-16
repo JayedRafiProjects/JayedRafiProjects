@@ -1,4 +1,4 @@
-<img src="https://github.com/JayedRafiProjects/JayedRafiProjects/blob/main/poster.png" alt="cover">
+<a href ="https://github.com/JayedRafiProjects"><img src="https://github.com/JayedRafiProjects/JayedRafiProjects/blob/main/poster.png" alt="cover"></a>
 Hi there,
 <p>My name is <strong>Jayed</strong>, a future software engineer. I am currently doing my bachelors in Computer Science (Honours) at the University of Manitoba and working as a web developer at the Government of Manitoba. This is my GitHub profile where you will find a lot of awesome and also embarrassing projects. I usually don't have anything to do in my free time and also I love nerding out about creative projects, so don't hesitate to <a href = "https://jayedrafi.com">reach out!</a></p>
 <br/>
