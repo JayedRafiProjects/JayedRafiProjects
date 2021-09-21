@@ -11,6 +11,7 @@ Hi there,
 
 <p>🧪<strong>&nbsp;&nbsp;Software & Algorithm projects:</strong>
 <ul>
+  <li><a href ="">Data Visualization Software</a></li>
   <li><a href ="https://github.com/JayedRafiProjects/arbritary_mapping_algorithm">Arbitrary Mapping Algorithm</a></li>
   <li><a href ="https://github.com/JayedRafiProjects/sorting_algorithm_visualizer">Sorting Algorithm Visualizer</a></li>
 </ul>
