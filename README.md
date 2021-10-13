@@ -13,8 +13,8 @@ Hi there,
 <ul>
   <li><a href ="https://jayedrafiprojects.github.io/cmath.c/">Backend contribution - Project CMath (Open source group project)</a></li>
   <li><a href ="https://github.com/JayedRafiProjects/data_visualization_software">Data Visualization Software</a></li>
-  <li><a href ="https://github.com/JayedRafiProjects/arbritary_mapping_algorithm">Arbitrary Mapping Algorithm</a></li>
   <li><a href ="https://github.com/JayedRafiProjects/sorting_algorithm_visualizer">Sorting Algorithm Visualizer</a></li>
+  <li><a href ="https://github.com/JayedRafiProjects/arbritary_mapping_algorithm">Arbitrary Mapping Algorithm</a></li>
 </ul>
 <br/>
 
