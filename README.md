@@ -19,6 +19,7 @@ Hi there,
 
 <p>🧪<strong>&nbsp;&nbsp;Web Projects:</strong></p>
 <ul>
+  <li><a href ="https://jayedrafiprojects.github.io/cmath.c/">Index page - Project CMath</a></li>
   <li><a href ="">Intranet - Government of Manitoba (Work project)</a></li>
   <li><a href ="">Contaminated Sites Registry - Government of Manitoba (Work project)</a></li>
   <li><a href ="">Website - Science Fundamentals  Foundation of Alberta (Work project)</a></li>
