@@ -33,7 +33,8 @@ Hi there,
 </ul>
 <br/>
 
-<p>❗️<strong>&nbsp;&nbsp;Note:</strong> If you are not familiar with Java compiling, I recommend you to use <a href="https://www.bluej.org/">BlueJ</a>. It will be easier for you as you just need to drag and drop .java file and it's ready to run!</p>
+<p>❗️<strong>&nbsp;&nbsp;Note:</strong></p>
+<p>If you are not familiar with Java compiling, I recommend you to use <a href="https://www.bluej.org/">BlueJ</a>. It will be easier for you as you just need to drag and drop .java file and it's ready to run!</p>
 <br/>
 <hr>
 
