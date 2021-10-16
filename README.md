@@ -5,6 +5,7 @@ Hi there,
 
 <p>🧪<strong>&nbsp;&nbsp;Currently I'm working on:</strong>
 <ul>
+  <li>Full Stack - <a href ="">Intranet - Government of Manitoba (Work project)</a></li>
   <li>Full Stack - <a href ="https://jayedrafiprojects.github.io/cmath.c/">Project CMath (Open source group project)</a></li>
 </ul>
 <br/>
