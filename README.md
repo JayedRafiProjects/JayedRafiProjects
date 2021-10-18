@@ -18,6 +18,7 @@ Hi there,
   <li><a href ="https://github.com/JayedRafiProjects/arbritary_mapping_algorithm">Arbitrary Mapping Algorithm</a></li>
   <li><a href ="https://github.com/JayedRafiProjects/pascal_case_for_usual_texts">Pascal Case for Usual Text</a></li>
   <li><a href ="https://github.com/JayedRafiProjects/2DMatrix">2D Matrix</a></li>
+  <li><a href ="https://github.com/JayedRafiProjects/cryptography">Cryptography (Ceaser cipher & Vigenere cipher) </a>[Private]</li>
 </ul>
 <br/>
 
