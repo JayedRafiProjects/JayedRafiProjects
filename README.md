@@ -11,6 +11,7 @@ Hi there,
 <br/>
 
 <p>🧪<strong>&nbsp;&nbsp;Software & Algorithm projects:</strong>
+<table>
 <ul>
   <li><a href ="https://jayedrafiprojects.github.io/cmath.c/">Backend contribution - Project CMath (Open source group project)</a></li>
   <li><a href ="https://github.com/JayedRafiProjects/data_visualization_software">Data Visualization Software</a></li>
@@ -20,6 +21,7 @@ Hi there,
   <li><a href ="https://github.com/JayedRafiProjects/2DMatrix">2D Matrix</a></li>
   <li><a href ="https://github.com/JayedRafiProjects/cryptography">Cryptography (Ceaser cipher & Vigenere cipher)</a> [Private]</li>
 </ul>
+</table>
 <br/>
 
 <p>🧪<strong>&nbsp;&nbsp;Web Projects:</strong></p>
