@@ -11,15 +11,15 @@ Hi there,
 <br/>
 
 <p>🧪<strong>&nbsp;&nbsp;Software & Algorithm projects:</strong>
-<table>
-  <tr><th><a href ="https://jayedrafiprojects.github.io/cmath.c/">Backend contribution - Project CMath (Open source group project)</a></th></tr>
+<ul>
+  <li><a href ="https://jayedrafiprojects.github.io/cmath.c/">Backend contribution - Project CMath (Open source group project)</a></li>
   <li><a href ="https://github.com/JayedRafiProjects/data_visualization_software">Data Visualization Software</a></li>
   <li><a href ="https://github.com/JayedRafiProjects/sorting_algorithm_visualizer">Sorting Algorithm Visualizer</a></li>
   <li><a href ="https://github.com/JayedRafiProjects/arbritary_mapping_algorithm">Arbitrary Mapping Algorithm</a></li>
   <li><a href ="https://github.com/JayedRafiProjects/pascal_case_for_usual_texts">Pascal Case for Usual Text</a></li>
   <li><a href ="https://github.com/JayedRafiProjects/2DMatrix">2D Matrix</a></li>
   <li><a href ="https://github.com/JayedRafiProjects/cryptography">Cryptography (Ceaser cipher & Vigenere cipher)</a> [Private]</li>
-</table>
+</ul>
 <br/>
 
 <p>🧪<strong>&nbsp;&nbsp;Web Projects:</strong></p>
