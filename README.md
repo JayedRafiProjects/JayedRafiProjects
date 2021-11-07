@@ -28,7 +28,7 @@
   </tr>
   </table>
   <hr>
-  <table align="center">
+  <table align="center" style="width:100%">
   <tr>
     <th> Group Project/repo </th>
     <th> Type </th>
@@ -41,7 +41,7 @@
   </tr>
   </table>
   <hr>
-  <table align="center">
+  <table align="center" style="width:100%">
   <tr>
     <th> Personal Project/repo </th>
     <th> Type </th>
