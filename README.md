@@ -3,7 +3,7 @@
   <tr>
     <td>
        <table cellspacing="0" cellpadding="1" border="1" width="100%" >
-         <tr style="color:white;background-color:grey">
+         <tr style="color:white;background-color:red">
             <th>Header 1</th>
             <th>Header 2</th>
          </tr>
