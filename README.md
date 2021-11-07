@@ -19,7 +19,7 @@
    <tr>
     <th> University of Manitoba International Students' Organization </th>
     <th> UI/UX </th>
-    <th> Website </th>
+     <th> <a href="https://www.umiso.ca/">Website</a> </th>
   </tr>
    <tr>
     <th> Science FUNdamentals Foundation of Alberta </th>
@@ -37,7 +37,7 @@
   <tr>
     <th> Project CMath </th>
     <th> Open source math library </th>
-    <th> Website / <a href="https://github.com/JayedRafiProjects/cmath.c">Repository</a> </th>
+    <th> <a href="https://jayedrafiprojects.github.io/cmath.c/">Website</a> / <a href="https://github.com/JayedRafiProjects/cmath.c">Repository</a> </th>
   </tr>
   </table>
   <hr>
