@@ -1,4 +1,6 @@
 <a href ="https://github.com/JayedRafiProjects"><img src="https://github.com/JayedRafiProjects/JayedRafiProjects/blob/main/cover_github.png" alt="cover"></a>
+<p align="justify">Hi,<br/>
+  I am Jayed,..</p>
 <hr>
 <table align="center">
   <tr>
