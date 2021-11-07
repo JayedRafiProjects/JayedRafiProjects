@@ -37,7 +37,7 @@
   <tr>
     <th> Project CMath </th>
     <th> Open source math library </th>
-    <th> Website / Repository </th>
+    <th> Website / <a href="https://github.com/JayedRafiProjects/cmath.c">Repository</a> </th>
   </tr>
   </table>
   <hr>
