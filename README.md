@@ -2,7 +2,7 @@
 <hr>
 <table align="center">
   <tr>
-    <th> Work Project </th>
+    <th> Work Project/repo </th>
     <th> Type </th>
     <th> Details </th>
   </tr>
@@ -19,24 +19,37 @@
    <tr>
     <th> University of Manitoba International Students' Organization </th>
     <th> UI/UX </th>
-    <th></th>
+    <th>  </th>
   </tr>
    <tr>
     <th> Science FUNdamentals Foundation of Alberta </th>
     <th> UI/UX </th>
-    <th></th>
+    <th>  </th>
   </tr>
   </table>
   <hr>
   <table align="center">
   <tr>
-    <th> Group Project </th>
+    <th> Group Project/repo </th>
     <th> Type </th>
     <th> Details </th>
   </tr>
   <tr>
     <th> Project CMath </th>
-    <th> Open source library </th>
+    <th> Open source math library </th>
+    <th>  </th>
+  </tr>
+  </table>
+  <hr>
+  <table align="center">
+  <tr>
+    <th> Personal Project/repo </th>
+    <th> Type </th>
+    <th> Details </th>
+  </tr>
+  <tr>
+    <th> Project CMath </th>
+    <th> Open source math library </th>
     <th>  </th>
   </tr>
   </table>
