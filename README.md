@@ -1,6 +1,6 @@
 <a href ="https://github.com/JayedRafiProjects"><img src="https://github.com/JayedRafiProjects/JayedRafiProjects/blob/main/poster.png" alt="cover"></a>
 <hr>
-<table align="center">
+<table align="center" style="width:100%">
   <tr>
     <th> Work Project/repo </th>
     <th> Type </th>
