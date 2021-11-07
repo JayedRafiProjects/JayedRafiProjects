@@ -1,8 +1,8 @@
 <a href ="https://github.com/JayedRafiProjects"><img src="https://github.com/JayedRafiProjects/JayedRafiProjects/blob/main/poster.png" alt="cover"></a>
-<table cellspacing="0" cellpadding="0" border="0" width="325">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
   <tr>
     <td>
-       <table cellspacing="0" cellpadding="1" border="1" width="300" >
+       <table cellspacing="0" cellpadding="1" border="1" width="100%" >
          <tr style="color:white;background-color:grey">
             <th>Header 1</th>
             <th>Header 2</th>
