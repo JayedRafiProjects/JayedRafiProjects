@@ -66,8 +66,8 @@
 <hr>
 <table>
   <tr>
-    <th> Pascal case </th>
-    <th> Transfer text into pascal case </th>
+    <th> Other repo </th>
+    <th> Details </th>
   </tr>
   <tr>
     <th> <a href="https://github.com/JayedRafiProjects/pascal_case_for_usual_texts">Pascal case</a> </th>
