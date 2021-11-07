@@ -63,7 +63,6 @@
     <th> [Private] </th>
   </tr>
   </table>
-<hr>
 <table align="center">
   <tr>
     <th> Other repo </th>
