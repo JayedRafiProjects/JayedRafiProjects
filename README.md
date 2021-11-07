@@ -64,7 +64,7 @@
   </tr>
   </table>
 <hr>
-<table>
+<table align="center">
   <tr>
     <th> Other repo </th>
     <th> Details </th>
