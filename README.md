@@ -1,8 +1,8 @@
 <a href ="https://github.com/JayedRafiProjects"><img src="https://github.com/JayedRafiProjects/JayedRafiProjects/blob/main/poster.png" alt="cover"></a>
 <hr>
-<table align="center" style="width:100%">
+<table align="center">
   <tr>
-    <th> Work Project/repo </th>
+    <th> Work Project / repo </th>
     <th> Type </th>
     <th> Details </th>
   </tr>
@@ -19,37 +19,47 @@
    <tr>
     <th> University of Manitoba International Students' Organization </th>
     <th> UI/UX </th>
-    <th>  </th>
+    <th> Website </th>
   </tr>
    <tr>
     <th> Science FUNdamentals Foundation of Alberta </th>
     <th> UI/UX </th>
-    <th>  </th>
+    <th> Website </th>
   </tr>
   </table>
   <hr>
-  <table align="center" style="width:100%">
+  <table align="center">
   <tr>
-    <th> Group Project/repo </th>
+    <th> Group Project / repo </th>
     <th> Type </th>
     <th> Details </th>
   </tr>
   <tr>
     <th> Project CMath </th>
     <th> Open source math library </th>
-    <th>  </th>
+    <th> Website / Repository </th>
   </tr>
   </table>
   <hr>
-  <table align="center" style="width:100%">
+  <table align="center">
   <tr>
-    <th> Personal Project/repo </th>
+    <th> Personal Project / repo </th>
     <th> Type </th>
     <th> Details </th>
   </tr>
   <tr>
-    <th> Project CMath </th>
-    <th> Open source math library </th>
-    <th>  </th>
+    <th> Data Visualization Software </th>
+    <th> Graph visualization tool </th>
+    <th> Repository </th>
+  </tr>
+  <tr>
+    <th> Sorting algorithm visualizer </th>
+    <th> Step visualization </th>
+    <th> Repository </th>
+  </tr>
+  <tr>
+    <th> Cryptography [Ceaser & vigenere cipher] </th>
+    <th> Cryptography </th>
+    <th> [Private] </th>
   </tr>
   </table>
