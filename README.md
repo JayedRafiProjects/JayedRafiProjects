@@ -1,4 +1,4 @@
-<a href ="https://github.com/JayedRafiProjects"><img src="https://github.com/JayedRafiProjects/JayedRafiProjects/blob/main/poster.png" alt="cover"></a>
+<a href ="https://github.com/JayedRafiProjects"><img src="https://github.com/JayedRafiProjects/JayedRafiProjects/blob/main/cover_github.png" alt="cover"></a>
 <hr>
 <table align="center">
   <tr>
