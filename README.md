@@ -1,8 +1,8 @@
 <a href ="https://github.com/JayedRafiProjects"><img src="https://github.com/JayedRafiProjects/JayedRafiProjects/blob/main/poster.png" alt="cover"></a>
-<p><strong>Work project</strong></p><hr>
+<hr>
 <table align="center">
   <tr>
-    <th> Project </th>
+    <th> Work Project </th>
     <th> Type </th>
     <th> Details </th>
   </tr>
@@ -25,5 +25,18 @@
     <th> Science FUNdamentals Foundation of Alberta </th>
     <th> UI/UX </th>
     <th></th>
+  </tr>
+  </table>
+  <hr>
+  <table align="center">
+  <tr>
+    <th> Group Project </th>
+    <th> Type </th>
+    <th> Details </th>
+  </tr>
+  <tr>
+    <th> Project CMath </th>
+    <th> Open source library </th>
+    <th>  </th>
   </tr>
   </table>
