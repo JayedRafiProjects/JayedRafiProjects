@@ -1,18 +1,18 @@
 <a href ="https://github.com/JayedRafiProjects"><img src="https://github.com/JayedRafiProjects/JayedRafiProjects/blob/main/poster.png" alt="cover"></a>
 <table align="center">
   <tr>
-    <th>Repository</th>
+    <th>Project & repository</th>
     <th>Details</th>
     <th>Topic</th>
   </tr>
     <tr>
-    <th></th>
-    <th></th>
-    <th></th>
+    <th>Intranet - Government of Manitoba</th>
+    <th>Work</th>
+    <th>Web</th>
   </tr>
     <tr>
-    <th></th>
-    <th></th>
-    <th></th>
+    <th>Contaminated sites registry - Government of Manitoba</th>
+    <th>Work</th>
+    <th>Web</th>
   </tr>
   </table>
