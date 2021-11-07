@@ -63,3 +63,18 @@
     <th> [Private] </th>
   </tr>
   </table>
+<hr>
+<table>
+  <tr>
+    <th> Pascal case </th>
+    <th> Transfer text into pascal case </th>
+  </tr>
+  <tr>
+    <th> <a href="https://github.com/JayedRafiProjects/pascal_case_for_usual_texts">Pascal case</a> </th>
+    <th> Transfer text into pascal case </th>
+  </tr>
+  <tr>
+    <th> <a href="https://github.com/JayedRafiProjects/arbritary_mapping_algorithm">Arbritary mapping algorithm</a> </th>
+    <th> Assign values in random index </th>
+  </tr>
+  </table>
