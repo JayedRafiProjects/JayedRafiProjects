@@ -13,7 +13,7 @@
   <tr>
     <td>
        <div style="width:320px; height:80px; overflow:auto;">
-         <table cellspacing="0" cellpadding="1" border="1" width="300" >
+         <table cellspacing="0" cellpadding="1" border="1" width="100%" >
            <tr>
              <td>new item</td>
              <td>new item</td>
