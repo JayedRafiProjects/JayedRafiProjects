@@ -50,6 +50,11 @@
     <th> Details </th>
   </tr>
   <tr>
+    <th> Chart Me </th>
+    <th> Data visualization Software </th>
+    <th> Repository </th>
+  </tr>
+  <tr>
     <th> Data Visualization Software </th>
     <th> Graph visualization tool </th>
     <th> Repository </th>
