@@ -52,7 +52,7 @@
   <tr>
     <th> Chart Me </th>
     <th> Data visualization Software </th>
-    <th> Repository </th>
+    <th> <a href="https://jayedrafiprojects.github.io/chart-me/">Website</a> / <a href="https://github.com/JayedRafiProjects/chart-me">Repository</a> </th>
   </tr>
   <tr>
     <th> Data Visualization Software </th>
