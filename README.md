@@ -2,6 +2,7 @@
 <p align="justify">Hi,<br/>
   I am Jayed. Find more on my <a href="https://jayedrafi.com">portfolio</a>.</p>
 <hr>
+<p>Find my project list here:</p>
 <table align="center">
   <tr>
     <th> Type </th>
