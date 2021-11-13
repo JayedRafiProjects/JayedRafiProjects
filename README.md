@@ -5,8 +5,8 @@
 <p>Find my project list here:
 <br/>
 <ul>
-  <li> Software </li>
-  <li> Web </li>
+  <li> Software project </li>
+  <li> Web project </li>
   <li> UI/UX </li>
 </ul>
 </p>
