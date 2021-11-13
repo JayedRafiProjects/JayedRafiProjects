@@ -4,13 +4,21 @@
 <hr>
 <table align="center">
   <tr>
-    <th> Work Project / repo </th>
     <th> Type </th>
-    <th> Details </th>
+    <th> Link </th>
   </tr>
     <tr>
-    <th> Intranet - Government of Manitoba </th>
-    <th> Web system </th>
-    <th> [Private] </th>
+    <th> Sotware </th>
+    <th> link </th>
+  </tr>
+  </tr>
+    <tr>
+    <th> Web </th>
+    <th> link </th>
+  </tr>
+  </tr>
+    <tr>
+    <th> UI/UX </th>
+    <th> link </th>
   </tr>
   </table>
