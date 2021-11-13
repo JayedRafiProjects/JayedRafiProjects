@@ -2,24 +2,11 @@
 <p align="justify">Hi,<br/>
   I am Jayed. Find more on my <a href="https://jayedrafi.com">portfolio</a>.</p>
 <hr>
-<p>Find my project list here:</p>
-<table align="center">
-  <tr>
-    <th> Type </th>
-    <th> Link </th>
-  </tr>
-    <tr>
-    <th> Sotware </th>
-    <th> link </th>
-  </tr>
-  </tr>
-    <tr>
-    <th> Web </th>
-    <th> link </th>
-  </tr>
-  </tr>
-    <tr>
-    <th> UI/UX </th>
-    <th> link </th>
-  </tr>
-  </table>
+<p>Find my project list here:
+<br/>
+<ul>
+  <li> Software </li>
+  <li> Web </li>
+  <li> UI/UX </li>
+</ul>
+</p>
