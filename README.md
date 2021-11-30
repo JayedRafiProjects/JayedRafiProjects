@@ -5,5 +5,5 @@
 <br/>
   <a href="">other repositories</a><p>
 <p align="center">CONTACT INFORMATION</p>
-<P align="center"><a href="https://jayedrafiprojects.github.io/portfolio/">[PORTFOLIO]</a> <a href="https://www.linkedin.com/in/jayed-rafi/">[LinkedIn]</a></br>
+<P align="center"><a href="https://jayedrafiprojects.github.io/portfolio/">[portfolio]</a> <a href="https://www.linkedin.com/in/jayed-rafi/">[LinkedIn]</a></br>
 or mail me at: jayedrafi@outlook.com</p>
