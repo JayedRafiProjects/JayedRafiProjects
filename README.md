@@ -1,5 +1,5 @@
-<h4 align="right">Jayed Rafi</h4>
-<h6 align="right">Software Eng.</h6>
+<h2 align="right">Jayed Rafi</h4>
+<h4 align="right">Software Eng.</h6>
 <p>list of projects and repositories</p>
 <p><a href="https://jayedrafiprojects.github.io/portfolio/pswe.html">software engineering projects</a>
 <br/>
