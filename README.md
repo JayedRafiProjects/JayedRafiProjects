@@ -1,5 +1,4 @@
-<h3 align="right">Jayed Rafi</h3>
-<p>list of projects and repositories</p>
+<p>projects and repositories:</p>
 <p><a href="https://jayedrafiprojects.github.io/portfolio/pswe.html">software engineering projects</a>
 <br/>
   <a href="https://jayedrafiprojects.github.io/portfolio/pweb.html">web development projects</a>
