@@ -1,8 +1,10 @@
 <div align="center">
 <p>projects and repositories:</p>
-<p><a href="https://jayedrafiprojects.github.io/portfolio/pswe.html">software engineering projects</a>
+<p><a href="https://jayedrafiprojects.github.io/portfolio/pswe.html">software engineering project</a>
 <br/>
-  <a href="https://jayedrafiprojects.github.io/portfolio/pweb.html">web development projects</a>
+  <a href="https://jayedrafiprojects.github.io/portfolio/pweb.html">web development project</a>
+<br/>
+  <a href="https://jayedrafiprojects.github.io/portfolio/publication.html">publication</a>
 <br/>
   <a href="">other repositories</a><p>
 <p>connect</p>
