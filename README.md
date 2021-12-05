@@ -1,5 +1,5 @@
 <div align="center">
-<p>projects and repositories:</p>
+<p>projects and repositories</p>
 <p><a href="https://jayedrafiprojects.github.io/portfolio/project/pswe.html">software engineering project</a>
 <br/>
   <a href="https://jayedrafiprojects.github.io/portfolio/project/pweb.html">web development project</a>
