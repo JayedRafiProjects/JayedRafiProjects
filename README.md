@@ -1,5 +1,5 @@
 <div align="center">
-  <p>Use my graphing app <a href="">Chart Me</a></p>
+  <p>Use my graphing app <a href="https://jayedrafi.com/chart-me/">Chart Me</a></p>
 <p>Find the list of projects</p>
 <p><a href="https://jayedrafi.com/project/software-engineering.html">software engineering project</a>
 <br/>
