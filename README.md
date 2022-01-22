@@ -4,6 +4,5 @@
   <p>Email: <a href="mailto:jayedrafi@outlook.com">jayedrafi@outlook.com</a></p>
   <br/><br/>
   <p>Save the Earth. Use :seedling: <a href="https://onescan.github.io/app/index.html">One Scan</a></p>
-  [![Jayed's github activity graph](https://activity-graph.herokuapp.com/graph?JayedRafiProjects=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div>
 
