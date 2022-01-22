@@ -3,5 +3,5 @@
   <p>Portfolio: <a href="https://jayedrafi.com">https://jayedrafi.com</a></p>
   <p>Email: <a href="mailto:jayedrafi@outlook.com">jayedrafi@outlook.com</a></p>
   <br/><br/>
-  <p>Save the Earth. Use <a href="https://onescan.github.io/app/index.html">One Scan</a> :seedling:</p>
+  <p>Save the Earth. Use :seedling: <a href="https://onescan.github.io/app/index.html">One Scan</a></p>
 <div>
