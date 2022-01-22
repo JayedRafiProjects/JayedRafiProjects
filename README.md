@@ -5,4 +5,4 @@
   <br/><br/>
   <p>Save the Earth. Use :seedling: <a href="https://onescan.github.io/app/index.html">One Scan</a></p>
 <div>
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jayed's github activity graph](https://activity-graph.herokuapp.com/graph?JayedRafiProjects=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
